@@ -15,6 +15,8 @@ All the projects are good to open at MS lab linux computer.
 
 
 - assignment03 is Ray-tracing
-
+![image](https://github.com/GinMercer/CPSC453_Fall2019/blob/master/a3/test_images/test.png)
+![image](https://github.com/GinMercer/CPSC453_Fall2019/blob/master/a3/test_images/test1.png)
+![image](https://github.com/GinMercer/CPSC453_Fall2019/blob/master/a3/test_images/test2.png)
 
 - assignment04 is curves
